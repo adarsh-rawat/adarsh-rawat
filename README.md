@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - [x] Python
 - [x] JavaScript
 - [x] ReactJS
-- [x] React Native
+- [x] React Native.
 
 ## Connect with me
 [<img src='https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667' width='30px'>]('https://www.linkedin.com/in/adarsh-rawat-0887b4223/')
